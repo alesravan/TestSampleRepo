@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Massivparallelism", "Massivparallelism\Massivparallelism.csproj", "{B9E5B7BA-0FC5-4DD5-A66C-B06110BD0D99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassiveParallel", "MassiveParallel\MassiveParallel.csproj", "{6EE9A3B4-E647-4D41-8A98-F27AEB3ED385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9E5B7BA-0FC5-4DD5-A66C-B06110BD0D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E5B7BA-0FC5-4DD5-A66C-B06110BD0D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E5B7BA-0FC5-4DD5-A66C-B06110BD0D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E5B7BA-0FC5-4DD5-A66C-B06110BD0D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE9A3B4-E647-4D41-8A98-F27AEB3ED385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE9A3B4-E647-4D41-8A98-F27AEB3ED385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE9A3B4-E647-4D41-8A98-F27AEB3ED385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE9A3B4-E647-4D41-8A98-F27AEB3ED385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D637A548-29E9-436B-866C-E65939AF08E1}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/airworldwide
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MassiveParallel\\MassiveParallel.csproj
+		SccProjectName1 = MassiveParallel
+		SccLocalPath1 = MassiveParallel
+		SccProjectUniqueName2 = Massivparallelism\\Massivparallelism.csproj
+		SccProjectName2 = Massivparallelism
+		SccLocalPath2 = Massivparallelism
+	EndGlobalSection
+EndGlobal
