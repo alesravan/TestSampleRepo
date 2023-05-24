@@ -38,6 +38,14 @@ namespace MassiveParallel
             if (c > a && c > b)
                 Console.WriteLine("C value is bigger than A,B");
         }
+        
+        public void UncoveredTest(int a, int b)
+        {
+        if(a>b)
+             Console.WriteLine("A value is bigger than B");
+         else
+             Console.WriteLine("A value is smaller than B");
+        }
 
     }
 }
