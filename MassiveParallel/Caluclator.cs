@@ -46,6 +46,10 @@ namespace MassiveParallel
          else
              Console.WriteLine("A value is smaller than B");
         }
+         public int coveredTest(int a, int b)
+        {
+             return a + b;
+        }
 
     }
 }
