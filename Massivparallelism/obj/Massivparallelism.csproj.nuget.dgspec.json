@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\i20826\\Documents\\GitHub\\TestSampleRepo\\Massivparallelism\\MassiveParallel\\MassiveParallel.csproj": {}
+    "C:\\Users\\i20826\\Documents\\GitHub\\TestSampleRepo\\Massivparallelism\\Massivparallelism.csproj": {}
   },
   "projects": {
-    "C:\\Users\\i20826\\Documents\\GitHub\\TestSampleRepo\\Massivparallelism\\MassiveParallel\\MassiveParallel.csproj": {
+    "C:\\Users\\i20826\\Documents\\GitHub\\TestSampleRepo\\Massivparallelism\\Massivparallelism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\i20826\\Documents\\GitHub\\TestSampleRepo\\Massivparallelism\\MassiveParallel\\MassiveParallel.csproj",
-        "projectName": "MassiveParallel",
-        "projectPath": "C:\\Users\\i20826\\Documents\\GitHub\\TestSampleRepo\\Massivparallelism\\MassiveParallel\\MassiveParallel.csproj",
+        "projectUniqueName": "C:\\Users\\i20826\\Documents\\GitHub\\TestSampleRepo\\Massivparallelism\\Massivparallelism.csproj",
+        "projectName": "Massivparallelism",
+        "projectPath": "C:\\Users\\i20826\\Documents\\GitHub\\TestSampleRepo\\Massivparallelism\\Massivparallelism.csproj",
         "packagesPath": "C:\\Users\\i20826\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\i20826\\Documents\\GitHub\\TestSampleRepo\\Massivparallelism\\MassiveParallel\\obj\\",
+        "outputPath": "C:\\Users\\i20826\\Documents\\GitHub\\TestSampleRepo\\Massivparallelism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\i20826\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,8 +59,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -69,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0d6pytFAn5+/1oLNacmRTb5AXUX4RBsmNRa7BFYX7M4xWmKR6yg8Ng1gfsTCoZOMv5SD1nZ2V77T048u+SP0Rg==",
+  "dgSpecHash": "lfIy8/ZCjrK3sQEW2ZY8IHHgoCOj+5lXsQodX2qb497FLER0Iz5klJEivL9V+QQRt4aS1N30yQgvhAokX+G9ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\i20826\\Documents\\GitHub\\TestSampleRepo\\Massivparallelism\\Massivparallelism\\Massivparallelism.csproj",
+  "projectFilePath": "C:\\Users\\i20826\\Documents\\GitHub\\TestSampleRepo\\Massivparallelism\\Massivparallelism.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\i20826\\.nuget\\packages\\microsoft.codecoverage\\17.4.0\\microsoft.codecoverage.17.4.0.nupkg.sha512",
     "C:\\Users\\i20826\\.nuget\\packages\\microsoft.net.test.sdk\\17.4.0\\microsoft.net.test.sdk.17.4.0.nupkg.sha512",
