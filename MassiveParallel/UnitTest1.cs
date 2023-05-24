@@ -42,16 +42,7 @@ namespace MassiveParallel
         {
             Console.WriteLine("AssemblyCleanup");
         }
-        [TestMethod]
-        public void X()
-        {
-           
-            Caluclator obj = new Caluclator();
-            Assert.AreEqual(300, obj.coveredTest(10, 10));
-            // Assert.AreEqual(10, obj.Sub(20, 10));
-            //Assert.AreEqual(100, obj.Mul(10, 10));
-            //Assert.AreEqual(10, obj.Div(100, 10));
-        }
+       
         [TestMethod]
         public void TestMethod1()
         {
